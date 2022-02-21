@@ -1,0 +1,563 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500,800");
+.hero-6 {
+    align-items: flex-start;
+    background-color: var(--white);
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    width: 1440px;
+}
+
+.overlap-group1 {
+    background-color: var(--link-water);
+    height: 866px;
+    position: relative;
+    width: 1440px;
+}
+
+.content {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 356px;
+    left: 165px;
+    position: absolute;
+    top: 291px;
+    width: 540px;
+}
+
+.header-copy {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 276px;
+    width: 540px;
+}
+
+.title {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 98px;
+    min-height: 196px;
+    width: 540px;
+}
+
+.lorem-ipsum-dolor-si {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: 16px;
+    min-height: 64px;
+    width: 540px;
+}
+
+.cta {
+    align-items: center;
+    display: flex;
+    margin-top: 32px;
+    width: 224px;
+}
+
+.essential-icons-play-circle {
+    align-items: flex-start;
+    border: 2px solid var(--eerie-black);
+    border-radius: 24px;
+    display: flex;
+    height: 48px;
+    min-width: 48px;
+    padding: 14px 15.9px;
+}
+
+.path-1 {
+    height: 16px;
+    width: 14px;
+}
+
+.line-6 {
+    height: 2px;
+    margin-left: 8px;
+    width: 80px;
+}
+
+.discover {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 18px;
+    margin-left: 8px;
+    min-height: 18px;
+    min-width: 80px;
+    white-space: nowrap;
+}
+
+.overlap-group2 {
+    height: 866px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.image {
+    height: 866px;
+    left: 705px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 735px;
+}
+
+.header-3 {
+    align-items: center;
+    display: flex;
+    height: 72px;
+    left: 0;
+    min-width: 1440px;
+    padding: 0 165px;
+    position: absolute;
+    top: 0;
+}
+
+.logotype {
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    width: 105px;
+}
+
+.landify {
+    height: 20px;
+    margin-left: 9px;
+    margin-top: 3.53px;
+    width: 68px;
+}
+
+.logomark-color {
+    align-items: flex-start;
+    display: flex;
+    min-width: 28px;
+}
+
+.logo {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    overflow: hidden;
+    width: 28px;
+}
+
+.overlap-group {
+    height: 29px;
+    margin-top: -0.43px;
+    position: relative;
+    width: 28px;
+}
+
+.rectangle-591-1 {
+    height: 21px;
+    left: 19px;
+    position: absolute;
+    top: 7px;
+    width: 9px;
+}
+
+.rectangle-587-1 {
+    height: 9px;
+    left: 9px;
+    position: absolute;
+    top: 0;
+    width: 19px;
+}
+
+.rectangle-591 {
+    height: 21px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 9px;
+}
+
+.rectangle-587 {
+    height: 9px;
+    left: 0;
+    position: absolute;
+    top: 20px;
+    width: 19px;
+}
+
+.nav-items {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 659px;
+    width: 346px;
+}
+
+.menu-item-default-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 20px;
+    margin-left: 32px;
+    min-width: 31px;
+}
+
+.label {
+    letter-spacing: 0;
+    line-height: 20px;
+    min-height: 20px;
+    white-space: nowrap;
+}
+
+.menu-item-default-2 {
+    align-items: flex-start;
+    display: flex;
+    height: 20px;
+    margin-left: 32px;
+    min-width: 33px;
+}
+
+.menu-item-default-3 {
+    align-items: flex-start;
+    display: flex;
+    height: 20px;
+    margin-left: 32px;
+    min-width: 55px;
+}
+
+.menu-item-default {
+    align-items: flex-start;
+    display: flex;
+    height: 20px;
+    margin-left: 32px;
+    min-width: 58px;
+}
+
+.header-menu-default {
+    align-items: flex-start;
+    display: flex;
+    height: 20px;
+    min-width: 41px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500,800");
+.feature-single-6 {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 704px;
+    padding: 64px 0;
+    width: 1440px;
+}
+
+.cover-image {
+    height: 400px;
+    margin-top: 48px;
+    object-fit: cover;
+    width: 1110px;
+}
+
+.feature-details {
+    align-items: center;
+    display: flex;
+    height: 128px;
+    width: 1110px;
+}
+
+.lorem-ipsum-dolor-si-1 {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 30px;
+    min-height: 128px;
+    width: 540px;
+}
+
+.section-title {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 54px;
+    min-height: 108px;
+    width: 540px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500,800");
+.testimonial-2 {
+    align-items: center;
+    background-color: var(--link-water);
+    display: flex;
+    height: 312px;
+    padding: 0 163px;
+    width: 1440px;
+}
+
+.testimonial-content {
+    align-items: flex-start;
+    display: flex;
+    height: 184px;
+    margin-left: 30px;
+    min-width: 827px;
+}
+
+.quote-mark {
+    align-items: flex-start;
+    display: flex;
+    height: 98px;
+    padding: 0 8px;
+    width: 48px;
+}
+
+.text-1 {
+    color: #2ec5ce;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xl);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 98px;
+    min-height: 98px;
+    white-space: nowrap;
+}
+
+.feedback {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 11px;
+    min-height: 160px;
+    width: 766px;
+}
+
+.client-details-2-dark-text {
+    align-items: center;
+    display: flex;
+    margin-left: 2px;
+    margin-top: 128px;
+    width: 255px;
+}
+
+.picture {
+    height: 56px;
+    object-fit: cover;
+    width: 56px;
+}
+
+.person-details {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 52px;
+    margin-left: 16px;
+    width: 183px;
+}
+
+.name {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 28px;
+    min-height: 28px;
+    white-space: nowrap;
+}
+
+.designation {
+    color: #474a57;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    min-height: 24px;
+    white-space: nowrap;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500,800");
+.footer-mini-4 {
+    align-items: center;
+    background-color: #0b0d17;
+    display: flex;
+    height: 72px;
+    min-width: 1440px;
+    padding: 0 165px;
+}
+
+.logotype {
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    width: 105px;
+}
+
+.logomark-color {
+    align-items: flex-start;
+    display: flex;
+    min-width: 28px;
+}
+
+.logo {
+    align-items: flex-start;
+    display: flex;
+    height: 28px;
+    overflow: hidden;
+    width: 28px;
+}
+
+.overlap-group {
+    height: 29px;
+    margin-top: -0.43px;
+    position: relative;
+    width: 28px;
+}
+
+.rectangle-587 {
+    height: 9px;
+    left: 0;
+    position: absolute;
+    top: 20px;
+    width: 19px;
+}
+
+.rectangle-591-1 {
+    height: 21px;
+    left: 19px;
+    position: absolute;
+    top: 7px;
+    width: 9px;
+}
+
+.rectangle-587-1 {
+    height: 9px;
+    left: 9px;
+    position: absolute;
+    top: 0;
+    width: 19px;
+}
+
+.rectangle-591 {
+    height: 21px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 9px;
+}
+
+.landify {
+    height: 20px;
+    margin-left: 9px;
+    margin-top: 3.53px;
+    width: 68px;
+}
+
+.x2020-landify-ui-ki {
+    color: #d9dbe1;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-left: 314px;
+    min-height: 24px;
+    min-width: 274px;
+    white-space: nowrap;
+}
+
+.social-links {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 273px;
+    width: 144px;
+}
+
+.social-icons-3 {
+    align-items: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62137196769d318eb9db8f91/releases/621371a26ad5301caaa47073/img/bg@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    justify-content: flex-end;
+    margin-left: 16px;
+    min-width: 24px;
+    padding: 6.8px 5px;
+}
+
+.path-3 {
+    height: 10px;
+    width: 14px;
+}
+
+.social-icons {
+    align-items: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62137196769d318eb9db8f91/releases/621371a26ad5301caaa47073/img/bg@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    justify-content: flex-end;
+    min-width: 24px;
+    padding: 5px 5px;
+}
+
+.path {
+    height: 14px;
+    width: 14px;
+}
+
+.social-icons-2 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62137196769d318eb9db8f91/releases/621371a26ad5301caaa47073/img/bg@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    margin-left: 16px;
+    min-width: 24px;
+    padding: 7px 5.8px;
+}
+
+.path-2 {
+    height: 10px;
+    width: 12px;
+}
+
+.social-icons-1 {
+    align-items: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62137196769d318eb9db8f91/releases/621371a26ad5301caaa47073/img/bg@2x.svg);
+    background-size: 100% 100%;
+    display: flex;
+    height: 24px;
+    justify-content: flex-end;
+    margin-left: 16px;
+    min-width: 24px;
+    padding: 5px 5px;
+}
+
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --eerie-black: rgba(24, 25, 31, 1);
+    --link-water: rgba(217, 232, 239, 1);
+    --white: rgba(255, 255, 255, 1);
+    --font-size-s: 14px;
+    --font-size-m: 18px;
+    --font-size-l: 40px;
+    --font-size-xl: 72px;
+    --font-family-inter: "Inter";
+}
+
+.inter-normal-eerie-black-18px {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.inter-medium-eerie-black-14px {
+    color: var(--eerie-black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 500;
+    font-style: normal;
+}
